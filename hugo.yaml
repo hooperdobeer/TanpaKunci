@@ -1,0 +1,18 @@
+baseURL: "https://yourdomain.com/"
+title: "Tanpa Kunci"
+theme: "hugo-bearcub"
+defaultContentLanguage: "id"
+
+params:
+  description: "Notes, links, and detailed articles."
+  author:
+    name: "Adhi"
+
+menu:
+  main:
+    - name: "Home"
+      url: "/"
+      weight: 1
+    - name: "Blog"
+      url: "/posts/"
+      weight: 2
