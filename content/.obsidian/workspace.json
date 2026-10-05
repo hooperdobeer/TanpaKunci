@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "b554e9f924ee3fc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c8f55875eb95934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53e4a3e2419f6568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/Kesehatan Mental, Pentingnya Bercerita.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kesehatan Mental, Pentingnya Bercerita"
+            }
+          },
+          {
+            "id": "d42c4a153d8db7ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21fcf878973d098a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6a59cb8b7e251a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c683935fd79ebc8c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7db89c004e4135db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "22abc09601ce4e27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d63c6e99c800c79",
+    "type": "split",
+    "children": [
+      {
+        "id": "70326956d8b6802b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5864a62935fdf0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "about.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c2228aabc2327f62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "about.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e8fca10f34c638d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "90699c9620852d0b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "be88cb70b6d6400f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "about.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d42c4a153d8db7ac",
+  "lastOpenFiles": [
+    "posts/Kesehatan Mental, Pentingnya Bercerita.md",
+    "posts/lastactivity.md",
+    "about.md",
+    "_index.md",
+    "posts/now/lastactivity.md",
+    "now/lastactivity.md",
+    "now",
+    "private/Kesehatan Mental, Pentingnya Bercerita.md",
+    "private",
+    "posts/private/Kesehatan Mental, Pentingnya Bercerita.md",
+    "posts/now",
+    "posts/private/catatan-pertama.md",
+    "posts/short",
+    "posts/private",
+    "posts/catatan-pertama.md",
+    "about/Untitled.md",
+    "about"
+  ]
+}

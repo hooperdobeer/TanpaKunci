@@ -1,18 +1,42 @@
-baseURL: "https://yourdomain.com/"
-title: "Tanpa Kunci"
+baseURL: "https://tanpakunci.pages.dev/"
+languageCode: "id-id"
+title: "┌─── 🔓 ──── 📑 ──── 🌐 ──── ☕ ───┐"
 theme: "hugo-bearcub"
-defaultContentLanguage: "id"
 
 params:
-  description: "Notes, links, and detailed articles."
-  author:
+  description: "Tanpa Kunci adalah ruang catatan terbuka tempat saya mendokumentasikan berbagai pengalaman hidup, eksperimen teknis, dan eksplorasi hobi."
+  author: 
     name: "Adhi"
+    email: "hooperdobeer@pm.me"
+  dateFormat: "Jan 02, 2006"
+  favicon: "images/favicon.png"
 
 menu:
   main:
     - name: "Home"
       url: "/"
       weight: 1
-    - name: "Blog"
-      url: "/posts/"
+    - name: "Tentang Penulis"
+      url: "/about/"
       weight: 2
+    - name: "Catatan"
+      url: "/posts/"
+      weight: 3
+    - name: "Affiliate"
+      url: "/404.html"
+      weight: 4
+   
+permalinks: 
+    posts: "/posts/:slug/"
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+enableRobotsTXT: true
+
+markup:
+  markup: 
+    goldmark: 
+        renderer: 
+            unsafe: true
